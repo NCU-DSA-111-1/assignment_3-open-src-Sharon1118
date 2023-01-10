@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sharon/homework3/arcd/arcd/arcd.c
+assert.h
+-
+arcd.h
+/home/sharon/homework3/arcd/arcd/arcd.h
+
+/home/sharon/homework3/arcd/arcd/arcd.h
+
